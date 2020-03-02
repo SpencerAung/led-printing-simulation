@@ -1,0 +1,18 @@
+{
+  "name": "led-print-solution",
+  "version": "1.0.0",
+  "description": "Solution for LED printing simulation problem",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^25.1.0",
+    "standard": "^14.3.1"
+  },
+  "scripts": {
+    "test": "jest",
+    "format": "standard --fix",
+    "start": "node index.js"
+  },
+  "author": "Spencer Aung<aung.spencer@gmail.com>",
+  "license": "ISC"
+}
