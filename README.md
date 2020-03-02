@@ -3,11 +3,17 @@
 Simulate the LED printing of a given text.
 Print `_`(underscore) for spaces and blanks.
 
+### Inputs
+```
 n: number of characters to display
 text: text to be printed
 second: time in second
+```
 
-example: `n = 6`, `text = 'hi bye'`
+### Output
+A string to be printed on LED display.
+
+Example: `n = 6`, `text = 'hi bye'`
 ```
 // second: 0
 ______
