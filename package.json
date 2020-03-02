@@ -13,6 +13,6 @@
     "format": "standard --fix",
     "start": "node index.js"
   },
-  "author": "Spencer Aung<aung.spencer@gmail.com>",
+  "author": "Spencer Aung",
   "license": "ISC"
 }
