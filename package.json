@@ -1,5 +1,5 @@
 {
-  "name": "led-print-solution",
+  "name": "led-printing-solution",
   "version": "1.0.0",
   "description": "Solution for LED printing simulation problem",
   "main": "index.js",
